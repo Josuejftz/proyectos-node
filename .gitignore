@@ -1,0 +1,20 @@
+
+
+# Dependency directories
+api-router/node_modules/
+api-test/node_modules/
+
+# Logs
+logs
+*.log
+
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variable files
+.env
+
+# vuepress v2.x temp and cache directory
+*.temp
+*.cache
